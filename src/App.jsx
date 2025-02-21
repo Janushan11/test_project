@@ -35,4 +35,3 @@ function App() {
 }
 
 export default App;
-// GDSctaHVDGYUAdfyugav ayidcjgau8ybd iCWYCKYSDJ 
